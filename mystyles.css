@@ -4,42 +4,56 @@
 }
 
 p{
-  background-color: #ccd1d1;
+  background-color: rgba(220,220,220,0.5);
+  font-family: Courier New, monospace ;
+  font-weight: lighter;
 }
 
 body {
   font-family: serif;
-  background-color: rgba(229, 231, 233);
+  background-color: rgba(242, 243, 244, 0.2);
 }
 
 h1 {
-  color: #CD5C5C;
+  color: rgb(255,182,193);
   text-align: center;
+  font-family: Courier New, monospace ;
+  font-weight: lighter;
 }
-
+h2 {
+  font-family: Courier New, monospace ;
+  font-weight: lighter;
+  color: rgb(255,182,193)
+}
 em {
   color: #808080;
+  font-family: Courier New, monospace ;
+  font-weight: lighter;
 }
 
 /* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
   text-align: right;
-  background-color: rgb(95, 106, 106);
+  background-color: rgba(220,220,220,0.5);
 }
 /* Style the links inside the navigation bar */
 .topnav a {
   float: right;
   display: block;
-  color: #CD5C5C;
+  color: rgb(255,182,193);
   text-align: center;
   padding: 15px 15px;
   text-decoration: none;
   font-size: 20px;
+  font-family: Courier New, monospace ;
+  font-weight: lighter;
 }
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  color: #CD5C5C;
+  color: rgb(255,182,193);
+  font-family: Courier New, monospace ;
+  font-weight: lighter;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
