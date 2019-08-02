@@ -1,8 +1,21 @@
 
-.myfirstclass {
-
+.paragraphabout{
+  position: absolute;
+  bottom: 350px;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  font-weight: normal;
 }
-
+.mainabout {
+    position: absolute;
+    bottom: 400px;
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    font-weight: normal;
+    color: #F1948A;
+}
 p{
   background-color: rgba(220,220,220,0.5);
   font-family: Courier New, monospace ;
@@ -25,7 +38,7 @@ h1 {
 .topnav {
   overflow: hidden;
   text-align: right;
-  background-color: rgba(220,220,220,0.5);
+  background-color: rgba(250, 128, 114, 0.5);
 }
 /* Style the links inside the navigation bar */
 .topnav a {
