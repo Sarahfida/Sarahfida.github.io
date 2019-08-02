@@ -15,18 +15,8 @@ body {
 }
 
 h1 {
-  color: rgb(255,182,193);
+  color: white;
   text-align: center;
-  font-family: Courier New, monospace ;
-  font-weight: lighter;
-}
-h2 {
-  font-family: Courier New, monospace ;
-  font-weight: lighter;
-  color: rgb(255,182,193)
-}
-em {
-  color: #808080;
   font-family: Courier New, monospace ;
   font-weight: lighter;
 }
@@ -41,7 +31,7 @@ em {
 .topnav a {
   float: right;
   display: block;
-  color: rgb(255,182,193);
+  color: white;
   text-align: center;
   padding: 15px 15px;
   text-decoration: none;
@@ -51,7 +41,7 @@ em {
 }
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  color: rgb(255,182,193);
+  color:  white;
   font-family: Courier New, monospace ;
   font-weight: lighter;
 }
@@ -86,6 +76,6 @@ em {
 }
 
 .topnav a:hover {
-  color:#a6acaf;
+  color: darkgrey;
   background-color: opacity: 0.5;
 }
