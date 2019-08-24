@@ -9,12 +9,30 @@
 }
 .mainabout {
     position: absolute;
-    bottom: 400px;
+    bottom: 470px;
     text-align: center;
     width: 100%;
     font-size: 50px;
     font-weight: normal;
     color: #F1948A;
+}
+.mainportfolio {
+  position: absolute;
+  bottom: 470px;
+  text-align: center;
+  width: 100%;
+  font-size: 50px;
+  font-weight: normal;
+  color: #F1948A;
+}
+.firstmainportfolio {
+  position: absolute;
+  bottom: 300px;
+  text-align: center;
+  width: 100%;
+  font-size: 350px;
+  font-weight: normal;
+  color: red;
 }
 p{
   background-color: rgba(220,220,220,0.5);
